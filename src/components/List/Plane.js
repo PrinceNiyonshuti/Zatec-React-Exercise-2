@@ -5,7 +5,7 @@ function Plane(props) {
     <div className="rounded overflow-hidden shadow-lg bg-white">
       <img
         className="w-full"
-        src="https://source.unsplash.com/featured/?jet"
+        src="https://source.unsplash.com/1600x900/?jet"
         alt="{props.name}"
       />
       <div className="px-6 py-4">
